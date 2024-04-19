@@ -1,0 +1,6 @@
+0 Squirrel
+1 Cat
+2 Horse
+3 Cow
+4 Sheep
+5 Dog

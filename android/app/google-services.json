@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316114893899",
+    "project_id": "frontier-trial",
+    "storage_bucket": "frontier-trial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316114893899:android:35a0a3073dfd2994e761ce",
+        "android_client_info": {
+          "package_name": "com.example.frontier_trial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0aKxysmrgGy1VHZBeNuQOc9iDknOPvtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
